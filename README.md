@@ -10,4 +10,4 @@ AIs have to figure out how to play this game and win.
 
 offer a map for humans to observe the AIs' movement. 
 
-
+once most AI moved, go next step. left about 10% slow AI don't move anything. 
